@@ -1,1 +1,2 @@
-pritnt('helllo world')
+print('helllo world')
+print('satu')
